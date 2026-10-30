@@ -109,3 +109,8 @@ import_array();
 Select the error message and jump to the error location: line 1531 of the _multiarray_api.h function
 Remove the “return NULL” of this row;
 
+
+# License
+
+- The code in this repository is released under the MIT License, see `LICENSE`.
+- `LICENSE-GPLv3` is the license of the upstream project this code is derived from (`Real-time-Motion-Correction-Plug-In`), retained for attribution.
